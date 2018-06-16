@@ -2,7 +2,7 @@
 
 Install packages:
 
-yarn add eller npm install
+yarn install eller npm install
 
 Start server:
 
