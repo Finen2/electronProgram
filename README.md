@@ -1,5 +1,8 @@
 # electronProgram
 
+Install packages:
+
+yarn add eller npm install
 
 Start server:
 
@@ -7,4 +10,4 @@ yarn start eller npm start
 
 sedan 
 
-yarn electron eller npm electron (kan även behöva ha med run med användningen av npm)
+yarn electron eller npm run electron
